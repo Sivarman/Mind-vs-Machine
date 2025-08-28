@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(12, 12, 12);
+    color:white;
+    background-image: url(/vecteezy_vector-abstract-background-with-gradient-color-and-dynamic_9160562.jpg);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: 50px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:100px auto;
+    padding: 90px;
+    background-color: rgba(255, 255, 255, 0.15);
+    width: 550px;
+    backdrop-filter: blur(2px);
+    border-radius: 45px;
+    height: 400px;
+}
+h1{
+    font-size: 360%;
+}
+form{
+    position: relative;
+    right: 120px;
+}
+label{
+    font-size: 135%;
+    margin:10px;
+}
+button{
+    border-radius: 4px;
+    margin: 10px;
+    font-family:'Montserrat', sans-serif;
+    background-color:rgba(255, 255, 255, 0.15) ;
+    font-weight: 300;
+    color: white;
+}
+input{
+    border:2px solid black;
+    font-weight: bold;
+}
+p{
+    position: relative;
+    right:140px;
+    font-size:15px;
+}
+@keyframes panmate{
+    from{
+        opacity: 0 ;
+    }
+    to{
+        opacity: 1 ;
+    }
+}
+.animation-ltr{
+    animation: panmate 5s ease-in;
+}
