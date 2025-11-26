@@ -20,7 +20,7 @@ The game provides hints after each guess until the correct number is found.
 
 ---
 
-## 📂 Files  
+## 📂 Files 
 - `gno.html` → Main structure of the game  
 - `gno.css` → Styles and design  
 - `gno.js` → Game logic  
