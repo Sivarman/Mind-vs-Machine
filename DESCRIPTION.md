@@ -3,7 +3,6 @@
 This repository contains a simple **Number Guessing Game** built using **HTML, CSS, and JavaScript**.  
 
 ---
-
 ## 📖 Overview  
 The player chooses a **start** and **end** number range.  
 A random number is generated within that range, and the player tries to guess it.  
