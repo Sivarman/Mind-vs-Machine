@@ -4,7 +4,7 @@ body{
     background-image: url(/vecteezy_vector-abstract-background-with-gradient-color-and-dynamic_9160562.jpg);
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    padding: 50px;
+    padding: 50px; 
 }
 .container{
     display: flex;
@@ -58,4 +58,5 @@ p{
 .animation-ltr{
     animation: panmate 5s ease-in;
 }
+
 
