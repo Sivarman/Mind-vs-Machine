@@ -5,7 +5,7 @@ A simple, interactive number guessing game built using **HTML**, **CSS**, and **
 ---
 
 ## 🎮 Features
-
+ 
 - Responsive and minimalist Ui
 - Random number generation between 1 and 100
 - Real-time feedback on guesses ("Too high", "Too low", "Correct!")
