@@ -11,7 +11,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin:100px auto;
+    margin:100px auto; 
     padding: 90px;
     background-color: rgba(255, 255, 255, 0.15);
     width: 550px;
@@ -58,6 +58,7 @@ p{
 .animation-ltr{
     animation: panmate 5s ease-in;
 }
+
 
 
 
